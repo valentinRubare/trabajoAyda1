@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1652998639 source:c:\users\rubare\desktop\ayda1\tpe\main.cpp
+	<iostream>
+	"menu_lista.h"
+	"menu_arbol.h"
+	"menu_fila.h"
+
+1653939913 c:\users\rubare\desktop\ayda1\tpe\menu_lista.h
+	<iostream>
+	<stdlib.h>
+	<listaa.h>
+
+1653939913 source:c:\users\rubare\desktop\ayda1\tpe\src\listaa.cpp
+	"listaa.h"
+	<iostream>
+	"cstddef"
+
+1653939913 c:\users\rubare\desktop\ayda1\tpe\include\listaa.h
+	<iostream>
+
+1653939913 c:\users\rubare\desktop\ayda1\tpe\menu_arbol.h
+	<iostream>
+	<stdlib.h>
+	"arbbb.h"
+
+1653939913 c:\users\rubare\desktop\ayda1\tpe\include\arbbb.h
+	<iostream>
+	"listaa.h"
+
+1653939924 source:c:\users\rubare\desktop\ayda1\tpe\src\arbbb.cpp
+	"arbbb.h"
+	<iostream>
+	"cstddef"
+	"listaa.h"
+
+1653939913 source:c:\users\rubare\desktop\ayda1\tpe\src\filaaa.cpp
+	"filaaa.h"
+	<iostream>
+	"cstddef"
+
+1653939912 c:\users\rubare\desktop\ayda1\tpe\include\filaaa.h
+	<iostream>
+
+1653939912 c:\users\rubare\desktop\ayda1\tpe\menu_fila.h
+	<iostream>
+	<stdlib.h>
+	<filaaa.h>
+
+1652998639 source:c:\users\delfina\downloads\tpe\main.cpp
+	<iostream>
+	"menu_lista.h"
+	"menu_arbol.h"
+	"menu_fila.h"
+
+1653939913 c:\users\delfina\downloads\tpe\menu_lista.h
+	<iostream>
+	<stdlib.h>
+	<listaa.h>
+
+1654044802 c:\users\delfina\downloads\tpe\include\listaa.h
+	<iostream>
+
+1653939913 c:\users\delfina\downloads\tpe\menu_arbol.h
+	<iostream>
+	<stdlib.h>
+	"arbbb.h"
+
+1653939913 c:\users\delfina\downloads\tpe\include\arbbb.h
+	<iostream>
+	"listaa.h"
+
+1654044775 c:\users\delfina\downloads\tpe\menu_fila.h
+	<iostream>
+	<stdlib.h>
+	<filaaa.h>
+
+1653939912 c:\users\delfina\downloads\tpe\include\filaaa.h
+	<iostream>
+
+1653939924 source:c:\users\delfina\downloads\tpe\src\arbbb.cpp
+	"arbbb.h"
+	<iostream>
+	"cstddef"
+	"listaa.h"
+
+1653939913 source:c:\users\delfina\downloads\tpe\src\filaaa.cpp
+	"filaaa.h"
+	<iostream>
+	"cstddef"
+
+1652998639 source:c:\users\rubare\desktop\ayda de prueba\tpe_entrega\main.cpp
+	<iostream>
+	"menu_lista.h"
+	"menu_arbol.h"
+	"menu_fila.h"
+
+1653939913 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\menu_lista.h
+	<iostream>
+	<stdlib.h>
+	<listaa.h>
+
+1654044802 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\include\listaa.h
+	<iostream>
+
+1653939913 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\menu_arbol.h
+	<iostream>
+	<stdlib.h>
+	"arbbb.h"
+
+1653939913 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\include\arbbb.h
+	<iostream>
+	"listaa.h"
+
+1654044775 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\menu_fila.h
+	<iostream>
+	<stdlib.h>
+	<filaaa.h>
+
+1653939912 c:\users\rubare\desktop\ayda de prueba\tpe_entrega\include\filaaa.h
+	<iostream>
+
+1653939924 source:c:\users\rubare\desktop\ayda de prueba\tpe_entrega\src\arbbb.cpp
+	"arbbb.h"
+	<iostream>
+	"cstddef"
+	"listaa.h"
+
+1653939913 source:c:\users\rubare\desktop\ayda de prueba\tpe_entrega\src\filaaa.cpp
+	"filaaa.h"
+	<iostream>
+	"cstddef"
+
+1654044873 source:c:\users\rubare\desktop\ayda de prueba\tpe_entrega\src\listaa.cpp
+	"listaa.h"
+	<iostream>
+	"cstddef"
+
